@@ -1,1 +1,1 @@
-![Hello](./screenshot.png)]
+![Hello](https://raw.githubusercontent.com/cuchi/cuchi/master/screenshot.png)
